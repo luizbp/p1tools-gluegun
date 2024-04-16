@@ -1,2 +1,26 @@
-# p1tools-gluegun
-Program Tool Pack 1 Powered by Gluegun
+# p1tools CLI
+
+A CLI for p1tools.
+
+## Customizing your CLI
+
+Check out the documentation at https://github.com/infinitered/gluegun/tree/master/docs.
+
+## Publishing to NPM
+
+To package your CLI up for NPM, do this:
+
+```shell
+$ npm login
+$ npm whoami
+$ npm test
+
+$ npm run build
+
+$ npm publish
+```
+
+# License
+
+MIT - see LICENSE
+
