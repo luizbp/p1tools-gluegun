@@ -1,6 +1,6 @@
 {
   "name": "p1tools",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Program 1 Tool Pack developed using Gluegun",
   "private": false,
   "types": "build/types/types.d.ts",
