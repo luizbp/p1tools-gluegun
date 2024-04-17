@@ -1,4 +1,4 @@
-import { build } from 'gluegun'
+import { GluegunToolbox, build } from 'gluegun'
 
 /**
  * Create the cli and kick it off
@@ -9,6 +9,17 @@ async function run(argv) {
     .brand('p1tools')
     .src(__dirname)
     .plugins('./node_modules', { matching: 'p1tools-*', hidden: true })
+    .defaultCommand({
+      run: async (toolbox: GluegunToolbox) => {
+        const {
+          print: { info, highlight, success },
+          meta,
+        } = toolbox
+        info(`Welcome to p1tools! 🚀`)
+        success(`${meta.packageJSON()?.description}`)
+        highlight(`Version: ${meta.version()}`)
+      },
+    })
     .help() // provides default for help, h, --help, -h
     .version() // provides default for version, v, --version, -v
     .create()

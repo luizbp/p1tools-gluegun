@@ -1,5 +1,5 @@
 // export types
-export type AccountsProcessedType = {
+export type ProcessedType = {
   app: string
   account: string
   exist: string
