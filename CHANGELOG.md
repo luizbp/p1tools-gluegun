@@ -11,4 +11,4 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ### Added
 
-- [**ISSUE-2**](https://github.com/luizbpacct/p1tools-gluegun/issues/2) - Add the functionality to run the "vtex update" command on varia accounts
+- [**ISSUE-2**](https://github.com/luizbpacct/p1tools-gluegun/issues/2) - Add the functionality of running the "vtex update" command on multiple accounts
