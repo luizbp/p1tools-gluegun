@@ -73,6 +73,33 @@ Installed Apps
 └─────────┴──────────────┴──────────┘
 ```
 
+### update-accounts
+
+Log into each VTEX account entered and perform a "vtex update"
+
+```shell
+    p1tools update-accounts
+```
+
+An entry will be input with the accounts that will be executed and must be entered separated by commas (",") e.g.:
+
+```shell
+    ? Accounts (separated by ",") » account1,account2,...
+```
+
+It will be executed account by account showing the progress.
+
+Example: 
+
+```shell
+√ Accounts (separated by ",") · account1,account2,account3
+ℹ account1 ✅
+ℹ account2 ✅
+ℹ account3 ✅
+✔ Running
+```
+
+
 ## 🚀 Customizing your CLI
 
 Check out the documentation at https://github.com/infinitered/gluegun/tree/master/docs.
