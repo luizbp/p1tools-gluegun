@@ -28,6 +28,7 @@ module.exports = {
 
     try {
       for (const account of listAccounts) {
+        await system.run(`vtex switch ${account}`)
         await system.run(`yes | vtex update`)
 
         spinner.info(`${account} ✅`)
