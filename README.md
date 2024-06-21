@@ -4,11 +4,10 @@
 <p align="center">Program 1 Tool Pack developed using Gluegun</p>
 
 <p align="center">
- <a href="#-pre-requisitos">💻 Pre requisites</a> •
- <a href="#-como-instalar">📦 How to install</a> •
- <a href="#-comandos">🎮 Commands</a> •
- <a href="#-customizing-your-cli">🚀 Customizing your CLI</a> • 
- <a href="#-publishing-to-npm">🚀 Publishing to NPM</a>
+ <a href="#-pre-requisitos">💻 Pre requisitos</a> •
+ <a href="#-como-instalar">📦 Como instalar</a> •
+ <a href="#-comandos">🎮 Comandos</a> •
+ <a href="#-personalizando-sua-cli">🚀 Personalizando sua CLI</a> • 
 </p>
 
 ## 💻 Pre requisitos
