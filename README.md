@@ -23,10 +23,14 @@ Você deve ter a CLI VTEX instalada em seu computador. Para instalar, basta segu
 
 ## 📦 Como instalar
 
-Para instalar, basta usar o gerenciador de pacotes `npm` executando o comando abaixo:
+Para instalar, basta usar o gerenciador de pacotes `npm` ou o `yarn` executando o comando abaixo:
 
 ```shell
-    npm i p1tools
+    ## npm
+    npm i -g p1tools
+
+    ## yarn
+    yarn global add p1tools
 ```
 
 ## 🎮 Comandos
