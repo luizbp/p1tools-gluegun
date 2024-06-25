@@ -3,6 +3,13 @@
 </h1>
 <p align="center">Program 1 Tool Pack developed using Gluegun</p>
 
+Apoie o nosso projeto! Sua contribuição ajuda a melhorar continuamente o nosso app e a torná-lo ainda mais incrível. Clique no botão abaixo para fazer uma doação.
+<p align="center">
+  <a href="https://rebrand.ly/w7ju9oj" target="_blank">
+    <img width="150" src="https://github.com/luizbp/p1tools-gluegun/assets/54871916/21ed71ec-3d9f-4fa4-86b7-9c41b4f4f8f8">
+  </a>
+</p>
+
 <p align="center">
  <a href="#-pre-requisitos">💻 Pre requisitos</a> •
  <a href="#-como-instalar">📦 Como instalar</a> •
