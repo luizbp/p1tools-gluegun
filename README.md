@@ -1,7 +1,7 @@
 <h1 align="center">
     P1TOOLS
 </h1>
-<p align="center">Program 1 Tool Pack developed using Gluegun</p>
+<p align="center">Pacote de ferramentas para VTEX IO CLI</p>
 
 Apoie o nosso projeto! Sua contribuição ajuda a melhorar continuamente o nosso app e a torná-lo ainda mais incrível. Clique no botão abaixo para fazer uma doação.
 <p align="center">
